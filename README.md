@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/biseshadhikar10" target="blank"><img src="https://img.shields.io/twitter/follow/biseshadhikar10?logo=twitter&style=for-the-badge" alt="biseshadhikar10" /></a> </p>
 
-- 🔭 I’m currently working on [edcbisesh](edcbisesh.xyz)
+- 🔭 I’m currently working on [Sikshyashala.com](Sikshyashala.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
